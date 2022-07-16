@@ -1,0 +1,24 @@
+/* styles.css */
+body { 
+  overflow: hidden; 
+  background: black;
+}
+video { 
+  width: 100%;
+}
+.clock {
+  background: #212529;
+  border-radius: 0.7vh;
+  color: #8e979f;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 3vh;
+  left: 1vh;
+  line-height: 1;
+  opacity: 70%;
+  padding: .5vh;
+  position: fixed;
+  text-align: center;
+  top: calc(95vh);
+  user-select: none;
+  width: 9vh;
+}
